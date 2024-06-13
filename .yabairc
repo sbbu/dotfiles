@@ -36,3 +36,4 @@ yabai -m rule --add app="^System Settings$" manage=off
 yabai -m rule --add app="^Calculator$" manage=off
 yabai -m rule --add app="^Downie$" manage=off
 yabai -m rule --add app="^IINA$" manage=off
+yabai -m rule --add app="^GitHub Desktop$" manage=off
