@@ -3,3 +3,7 @@
 !.yabairc
 !.skhdrc
 !.zshrc
+
+!.config
+!.config/*
+!.config/kitty/*
