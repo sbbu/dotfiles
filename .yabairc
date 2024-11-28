@@ -44,5 +44,6 @@ yabai -m rule --add app="^CleanMyMac X$" manage=off
 yabai -m rule --add app="^Spotify$" manage=off
 yabai -m rule --add app="^Finder$" manage=off
 yabai -m rule --add app="^Transmission$" manage=off
+yabai -m rule --add app="^IPFS Desktop$" manage=off
 
 # yabai -m rule --add app="^kitty$" opacity=0.9
