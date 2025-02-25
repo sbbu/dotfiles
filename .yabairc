@@ -48,5 +48,7 @@ yabai -m rule --add app="^Telegram$" manage=off
 yabai -m rule --add app="^App Store$" manage=off
 yabai -m rule --add app="^Transmission$" manage=off
 yabai -m rule --add app="^IPFS Desktop$" manage=off
+yabai -m rule --add app="^Permute$" manage=off
+yabai -m rule --add app="^BetterZip$" manage=off
 
 # yabai -m rule --add app="^kitty$" opacity=0.9
