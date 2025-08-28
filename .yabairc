@@ -54,5 +54,8 @@ yabai -m rule --add app="^E-book Viewer$" manage=off
 yabai -m rule --add app="^[Cc]alibre.*" manage=off
 yabai -m rule --add app="^Paradox Launcher$" manage=off
 yabai -m rule --add app="^CrossOver$" manage=off
+yabai -m rule --add app="^Anki$" manage=off
+yabai -m rule --add app="^CleanMyMac$" manage=off
+yabai -m rule --add app="^PeaZip$" manage=off
 
 # yabai -m rule --add app="^kitty$" opacity=0.9
