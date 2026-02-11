@@ -57,5 +57,6 @@ yabai -m rule --add app="^CrossOver$" manage=off
 yabai -m rule --add app="^Anki$" manage=off
 yabai -m rule --add app="^CleanMyMac$" manage=off
 yabai -m rule --add app="^PeaZip$" manage=off
+yabai -m rule --add app="^Starsector 0.98-RC8$" manage=off
 
 # yabai -m rule --add app="^kitty$" opacity=0.9
